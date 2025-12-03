@@ -26,6 +26,10 @@ public class ModRegisterEvent {
     public static final Set<ResourceLocation> AUTHOR_DOLLS = Sets.newHashSet();
     private static final int MAX_DOLL_COUNT = 616;
 
+    //自定义玩偶数量
+    private static final int CUSTOM_START_ID = 25050;
+    private static final int CUSTOM_DOLL_COUNT = 4;
+
     private static void registerAllVanillaTooltips() {
         registerVanillaTooltips("doll_328", "wine_fox");
         registerVanillaTooltips("doll_329", "dokimobs_warden");
@@ -583,32 +587,70 @@ public class ModRegisterEvent {
         registerSpecialTooltips("doll_612", "sponsors_shutuzhuangxibao");
         registerSpecialTooltips("doll_613", "sponsors_rexuexilanhua");
         registerSpecialTooltips("doll_615", "sponsors_halgus");
+
+        registerSpecialTooltips("doll_25050", "player_inknight");
+        registerSpecialTooltips("doll_25051", "player_candded_durian");
+        registerSpecialTooltips("doll_25052", "player_candded_blueberry");
+        registerSpecialTooltips("doll_25053", "player_daisy_i_doris");
+//        registerSpecialTooltips("doll_25054", "player_Yeyeeeeezi");
+//        registerSpecialTooltips("doll_25055", "player_candded_durian");
+//        registerSpecialTooltips("doll_25056", "player_candded_durian");
+//        registerSpecialTooltips("doll_25057", "player_candded_durian");
+//        registerSpecialTooltips("doll_25058", "player_candded_durian");
+//        registerSpecialTooltips("doll_25059", "player_candded_durian");
+//        registerSpecialTooltips("doll_25060", "player_candded_durian");
+        
     }
+
+//    @SubscribeEvent
+//    public static void registerBlocks(RegisterEvent event) {
+//        registerAllVanillaTooltips();
+//        registerAuthorTooltips();
+//        registerAllSpecialTooltips();
+//        // 批量注册玩偶
+//        if (event.getRegistryKey().equals(ForgeRegistries.BLOCKS.getRegistryKey())) {
+//            IntStream.range(0, MAX_DOLL_COUNT).forEach(i -> {
+//                ResourceLocation name = new ResourceLocation(KaleidoscopeDoll.MOD_ID, "doll_" + i);
+//                DollBlock block = new DollBlock();
+//                DOLL_BLOCKS.put(name, block);
+//                event.register(ForgeRegistries.BLOCKS.getRegistryKey(), name, () -> block);
+//            });
+//        }
+//        if (event.getRegistryKey().equals(ForgeRegistries.ITEMS.getRegistryKey())) {
+//            IntStream.range(0, MAX_DOLL_COUNT).forEach(i -> {
+//                ResourceLocation name = new ResourceLocation(KaleidoscopeDoll.MOD_ID, "doll_" + i);
+//                DollBlock block = DOLL_BLOCKS.get(name);
+//                String vanillaDesc = VANILLA_TOOLTIPS.getOrDefault(name, "vanilla");
+//                String specialDesc = SPECIAL_TOOLTIPS.getOrDefault(name, vanillaDesc);
+//                Item item = new DollItem(block, specialDesc);
+//                DOLL_ITEMS.add(item);
+//                event.register(ForgeRegistries.ITEMS.getRegistryKey(), name, () -> item);
+//            });
+//        }
+//    }
 
     @SubscribeEvent
     public static void registerBlocks(RegisterEvent event) {
         registerAllVanillaTooltips();
         registerAuthorTooltips();
         registerAllSpecialTooltips();
-        // 批量注册玩偶
+
+        // 1. 注册方块
         if (event.getRegistryKey().equals(ForgeRegistries.BLOCKS.getRegistryKey())) {
-            IntStream.range(0, MAX_DOLL_COUNT).forEach(i -> {
-                ResourceLocation name = new ResourceLocation(KaleidoscopeDoll.MOD_ID, "doll_" + i);
-                DollBlock block = new DollBlock();
-                DOLL_BLOCKS.put(name, block);
-                event.register(ForgeRegistries.BLOCKS.getRegistryKey(), name, () -> block);
-            });
+            // 注册原版玩偶 (0 - 616)
+            registerBlockRange(event, 0, MAX_DOLL_COUNT);
+
+            // 注册你的自定义玩偶 (25050 - 25050+数量)
+            registerBlockRange(event, CUSTOM_START_ID, CUSTOM_DOLL_COUNT);
         }
+
+        // 2. 注册物品
         if (event.getRegistryKey().equals(ForgeRegistries.ITEMS.getRegistryKey())) {
-            IntStream.range(0, MAX_DOLL_COUNT).forEach(i -> {
-                ResourceLocation name = new ResourceLocation(KaleidoscopeDoll.MOD_ID, "doll_" + i);
-                DollBlock block = DOLL_BLOCKS.get(name);
-                String vanillaDesc = VANILLA_TOOLTIPS.getOrDefault(name, "vanilla");
-                String specialDesc = SPECIAL_TOOLTIPS.getOrDefault(name, vanillaDesc);
-                Item item = new DollItem(block, specialDesc);
-                DOLL_ITEMS.add(item);
-                event.register(ForgeRegistries.ITEMS.getRegistryKey(), name, () -> item);
-            });
+            // 注册原版玩偶物品
+            registerItemRange(event, 0, MAX_DOLL_COUNT);
+
+            // 注册你的自定义玩偶物品
+            registerItemRange(event, CUSTOM_START_ID, CUSTOM_DOLL_COUNT);
         }
     }
 
@@ -627,4 +669,33 @@ public class ModRegisterEvent {
         ResourceLocation id = new ResourceLocation(KaleidoscopeDoll.MOD_ID, name);
         SPECIAL_TOOLTIPS.put(id, tooltip);
     }
+
+    // 辅助方法：批量注册方块
+    private static void registerBlockRange(RegisterEvent event, int startId, int count) {
+        IntStream.range(startId, startId + count).forEach(i -> {
+            ResourceLocation name = new ResourceLocation(KaleidoscopeDoll.MOD_ID, "doll_" + i);
+            DollBlock block = new DollBlock();
+            // 存入 Map
+            DOLL_BLOCKS.put(name, block);
+            // 注册
+            event.register(ForgeRegistries.BLOCKS.getRegistryKey(), name, () -> block);
+        });
+    }
+
+    // 辅助方法：批量注册物品
+    private static void registerItemRange(RegisterEvent event, int startId, int count) {
+        IntStream.range(startId, startId + count).forEach(i -> {
+            ResourceLocation name = new ResourceLocation(KaleidoscopeDoll.MOD_ID, "doll_" + i);
+            // 从 Map 中获取对应的方块
+            DollBlock block = DOLL_BLOCKS.get(name);
+            if (block == null) return; // 安全检查
+
+            String vanillaDesc = VANILLA_TOOLTIPS.getOrDefault(name, "vanilla");
+            String specialDesc = SPECIAL_TOOLTIPS.getOrDefault(name, vanillaDesc);
+            Item item = new DollItem(block, specialDesc);
+            DOLL_ITEMS.add(item);
+            event.register(ForgeRegistries.ITEMS.getRegistryKey(), name, () -> item);
+        });
+    }
+
 }
