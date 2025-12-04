@@ -28,7 +28,7 @@ public class ModRegisterEvent {
 
     //自定义玩偶数量
     private static final int CUSTOM_START_ID = 25050;
-    private static final int CUSTOM_DOLL_COUNT = 4;
+    private static final int CUSTOM_DOLL_COUNT = 19;
 
     private static void registerAllVanillaTooltips() {
         registerVanillaTooltips("doll_328", "wine_fox");
@@ -592,14 +592,22 @@ public class ModRegisterEvent {
         registerSpecialTooltips("doll_25051", "player_candded_durian");
         registerSpecialTooltips("doll_25052", "player_candded_blueberry");
         registerSpecialTooltips("doll_25053", "player_daisy_i_doris");
-//        registerSpecialTooltips("doll_25054", "player_Yeyeeeeezi");
-//        registerSpecialTooltips("doll_25055", "player_candded_durian");
-//        registerSpecialTooltips("doll_25056", "player_candded_durian");
-//        registerSpecialTooltips("doll_25057", "player_candded_durian");
-//        registerSpecialTooltips("doll_25058", "player_candded_durian");
-//        registerSpecialTooltips("doll_25059", "player_candded_durian");
-//        registerSpecialTooltips("doll_25060", "player_candded_durian");
-        
+        registerSpecialTooltips("doll_25054", "null");
+        registerSpecialTooltips("doll_25055", "player_easton_nolan");
+        registerSpecialTooltips("doll_25056", "player_iharuko");
+        registerSpecialTooltips("doll_25057", "player_st0neway");
+        registerSpecialTooltips("doll_25058", "player_yeyezzzzzzi");
+        registerSpecialTooltips("doll_25059", "player_snow_catnikki");
+        registerSpecialTooltips("doll_25060", "player_qing_ta");
+        registerSpecialTooltips("doll_25061", "player_ztliie_awa");
+        registerSpecialTooltips("doll_25062", "player_bluezjx");
+        registerSpecialTooltips("doll_25063", "player_hoshinosaki");
+        registerSpecialTooltips("doll_25064", "player_red_supern0va");
+        registerSpecialTooltips("doll_25065", "playaer_xiaoguishou_az");
+        registerSpecialTooltips("doll_25066", "playaer_he_liu");
+        registerSpecialTooltips("doll_25067", "playaer_sad_08");
+        registerSpecialTooltips("doll_25068", "playaer_metal_ranger");
+
     }
 
 //    @SubscribeEvent
