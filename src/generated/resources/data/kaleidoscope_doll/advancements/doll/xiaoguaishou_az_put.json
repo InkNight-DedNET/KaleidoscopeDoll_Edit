@@ -1,0 +1,45 @@
+{
+  "parent": "kaleidoscope_doll:doll/xiaoguaishou_az",
+  "criteria": {
+    "doll_25065_placed": {
+      "conditions": {
+        "item": {
+          "items": [
+            "kaleidoscope_doll:doll_25065"
+          ]
+        },
+        "location": [
+          {
+            "condition": "minecraft:location_check"
+          }
+        ]
+      },
+      "trigger": "minecraft:item_used_on_block"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "kaleidoscope_doll:textures/advancement/background.png",
+    "description": {
+      "translate": "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "kaleidoscope_doll:doll_25065"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.title"
+    }
+  },
+  "requirements": [
+    [
+      "doll_25065_placed"
+    ]
+  ],
+  "rewards": {
+    "experience": 50
+  },
+  "sends_telemetry_event": true
+}

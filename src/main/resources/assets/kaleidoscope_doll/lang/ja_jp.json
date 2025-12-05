@@ -587,10 +587,17 @@
   "tooltip.kaleidoscope_doll.doll.player_bluezjx": "プレーヤー：bluezjx",
   "tooltip.kaleidoscope_doll.doll.player_hoshinosaki": "プレーヤー：Hoshino_Saki",
   "tooltip.kaleidoscope_doll.doll.player_red_supern0va": "プレーヤー：Red_SuperN0va",
-  "tooltip.kaleidoscope_doll.doll.playaer_xiaoguishou_az": "プレーヤー：XiaoGuiShou_az",
+  "tooltip.kaleidoscope_doll.doll.playaer_xiaoguaishou_az": "プレーヤー：XiaoGuiShou_az",
   "tooltip.kaleidoscope_doll.doll.playaer_he_liu": "プレーヤー：HE_LIU",
   "tooltip.kaleidoscope_doll.doll.playaer_sad_08": "プレーヤー：Sad_08",
   "tooltip.kaleidoscope_doll.doll.playaer_metal_ranger": "プレーヤー：Metal_Ranger",
+  "tooltip.kaleidoscope_doll.doll.playaer_rji_milkyway": "プレーヤー：RJI_MilkyWay",
+  "tooltip.kaleidoscope_doll.doll.playaer_mengzhangold": "プレーヤー：MengZhangold",
+  "tooltip.kaleidoscope_doll.doll.playaer_viacg_07": "プレーヤー：Viacg_07",
+  "tooltip.kaleidoscope_doll.doll.playaer_easton_nolan_wild": "プレーヤー：Easton_Nolan(Wild)",
+  "tooltip.kaleidoscope_doll.doll.playaer_anhesu86": "プレーヤー：Anhesu86",
+  "tooltip.kaleidoscope_doll.doll.playaer_anhesu7": "プレーヤー：Anhesu7",
+  "tooltip.kaleidoscope_doll.doll.playaer_candded_durian_winter": "プレーヤー：Candded_Durian(Winter)",
 
 
 
@@ -614,7 +621,13 @@
   
   "advancements.kaleidoscope_doll.doll.candded_durian.title": "缶詰のお惣菜",
   "advancements.kaleidoscope_doll.doll.candded_durian.description": "ニシンの缶詰とドリアンの和え物",
-  
+
+  "advancements.kaleidoscope_doll.doll.candded_blueberry.title": "世界のアナザーミー",
+  "advancements.kaleidoscope_doll.doll.candded_blueberry.description": "頼む、もう一人の私！",
+
+  "advancements.kaleidoscope_doll.doll.daisy_i_doris.title": "一輪の花",
+  "advancements.kaleidoscope_doll.doll.daisy_i_doris.description": "心に深く秘めた感情から生まれたもの",
+
   "advancements.kaleidoscope_doll.doll.nolan.title": "資本家",
   "advancements.kaleidoscope_doll.doll.nolan.description": "人民の資本家",
   
@@ -631,5 +644,26 @@
   "advancements.kaleidoscope_doll.doll.yeye_zzzzzzi.description": "伝説の重婚王",
   
   "advancements.kaleidoscope_doll.doll.iharuko.title": "マンボ〜",
-  "advancements.kaleidoscope_doll.doll.iharuko.description": "町で一番ハチミなハチミ"
+  "advancements.kaleidoscope_doll.doll.iharuko.description": "町で一番ハチミなハチミ",
+  
+  "advancements.kaleidoscope_doll.doll.milkyway.title": "牛乳路ヒッチハイク・ガイド",
+  "advancements.kaleidoscope_doll.doll.milkyway.description": "答えは... 42。",
+
+  "advancements.kaleidoscope_doll.doll.nolan_wild.title": "原始の激怒",
+  "advancements.kaleidoscope_doll.doll.nolan_wild.description": "この世界はもっとお尻が必要だ。",
+
+  "advancements.kaleidoscope_doll.doll.anhesu.title": "アンヘスたち",
+  "advancements.kaleidoscope_doll.doll.anhesu.description": "蘇86と彼の小さな蘇7",
+
+  "advancements.kaleidoscope_doll.doll.he_liu.title": "何炅(ホー・ジョン)？",
+  "advancements.kaleidoscope_doll.doll.he_liu.description": "何柳、河流、そして河柳",
+
+  "advancements.kaleidoscope_doll.doll.red_supern0va.title": "レッド・スーパーノヴァ",
+  "advancements.kaleidoscope_doll.doll.red_supern0va.description": "超新星よりもさらに眩しい！",
+
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az.title": "獣性大発",
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az.description": "具体的には、ぐっすり眠ることです。",
+
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.title": "私の獣性が爆発し始める",
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.description": "ぐっすり眠り始めた"
 }

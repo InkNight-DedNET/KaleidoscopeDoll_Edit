@@ -243,25 +243,32 @@
 
 
 
-  "tooltip.kaleidoscope_doll.doll.player_inknight": "Player: InkNight",
-  "tooltip.kaleidoscope_doll.doll.player_candded_durian": "Player: Candded_Durian",
-  "tooltip.kaleidoscope_doll.doll.player_candded_blueberry": "Player: Candded_BlueBerry",
-  "tooltip.kaleidoscope_doll.doll.player_daisy_i_doris": "Player: Daisy_I_Doris",
-  "tooltip.kaleidoscope_doll.doll.dednet_network": "'/.DedNET'/.NETWORK",
-  "tooltip.kaleidoscope_doll.doll.player_easton_nolan": "Player: Easton_Nolan",
-  "tooltip.kaleidoscope_doll.doll.player_iharuko": "Player: iHaRuko",
-  "tooltip.kaleidoscope_doll.doll.player_st0neway": "Player: St0neWay",
-  "tooltip.kaleidoscope_doll.doll.player_yeyezzzzzzi": "Player: Yeyezzzzzi",
-  "tooltip.kaleidoscope_doll.doll.player_snow_catnikki": "Player: Snow_CatNikki",
-  "tooltip.kaleidoscope_doll.doll.player_qing_ta": "Player: qing_ta",
-  "tooltip.kaleidoscope_doll.doll.player_ztliie_awa": "Player: ZTLIIE_awa",
-  "tooltip.kaleidoscope_doll.doll.player_bluezjx": "Player: bluezjx",
-  "tooltip.kaleidoscope_doll.doll.player_hoshinosaki": "Player: Hoshino_Saki",
-  "tooltip.kaleidoscope_doll.doll.player_red_supern0va": "Player: Red_SuperN0va",
-  "tooltip.kaleidoscope_doll.doll.playaer_xiaoguishou_az": "Player: XiaoGuiShou_az",
-  "tooltip.kaleidoscope_doll.doll.playaer_he_liu": "Player: HE_LIU",
-  "tooltip.kaleidoscope_doll.doll.playaer_sad_08": "Player: Sad_08",
-  "tooltip.kaleidoscope_doll.doll.playaer_metal_ranger": "Player: Metal_Ranger",
+  "tooltip.kaleidoscope_doll.doll.player_inknight": "玩家：墨夜 InkNight",
+  "tooltip.kaleidoscope_doll.doll.player_candded_durian": "玩家：Candded_Durian",
+  "tooltip.kaleidoscope_doll.doll.player_candded_blueberry": "玩家：Candded_BlueBerry",
+  "tooltip.kaleidoscope_doll.doll.player_daisy_i_doris": "玩家：黛西·墨·哆蕾斯 Daisy_I_Doris",
+  "tooltip.kaleidoscope_doll.doll.dednet_network": "代德网络 '/.DedNET'/.NETWORK",
+  "tooltip.kaleidoscope_doll.doll.player_easton_nolan": "玩家：逸思通·诺兰 Easton_Nolan",
+  "tooltip.kaleidoscope_doll.doll.player_iharuko": "玩家：哈路口 iHaRuko",
+  "tooltip.kaleidoscope_doll.doll.player_st0neway": "玩家：石头路 St0neWay",
+  "tooltip.kaleidoscope_doll.doll.player_yeyezzzzzzi": "玩家：夜夜子 Yeyezzzzzi",
+  "tooltip.kaleidoscope_doll.doll.player_snow_catnikki": "玩家：雪猫 Nikki",
+  "tooltip.kaleidoscope_doll.doll.player_qing_ta": "玩家：轻沓 qing_ta",
+  "tooltip.kaleidoscope_doll.doll.player_ztliie_awa": "玩家：ZTLIIE_awa",
+  "tooltip.kaleidoscope_doll.doll.player_bluezjx": "玩家：bluezjx",
+  "tooltip.kaleidoscope_doll.doll.player_hoshinosaki": "玩家：Hoshino_Saki",
+  "tooltip.kaleidoscope_doll.doll.player_red_supern0va": "玩家：Red_SuperN0va",
+  "tooltip.kaleidoscope_doll.doll.playaer_xiaoguaishou_az": "玩家：小怪兽Daniel xiaoguaishou_AZ",
+  "tooltip.kaleidoscope_doll.doll.playaer_he_liu": "玩家：何柳 HE_LIU",
+  "tooltip.kaleidoscope_doll.doll.playaer_sad_08": "玩家：Sad_08",
+  "tooltip.kaleidoscope_doll.doll.playaer_metal_ranger": "玩家：Metal_Ranger",
+  "tooltip.kaleidoscope_doll.doll.playaer_rji_milkyway": "玩家：RJI_MilkyWay",
+  "tooltip.kaleidoscope_doll.doll.playaer_mengzhangold": "玩家：老孟张 MengZhangold",
+  "tooltip.kaleidoscope_doll.doll.playaer_viacg_07": "玩家：Viacg_07",
+  "tooltip.kaleidoscope_doll.doll.playaer_easton_nolan_wild": "玩家：逸思通·诺兰(原始版)",
+  "tooltip.kaleidoscope_doll.doll.playaer_anhesu86": "玩家：安何苏 Anhesu86",
+  "tooltip.kaleidoscope_doll.doll.playaer_anhesu7": "玩家：安何苏 Anhesu7",
+  "tooltip.kaleidoscope_doll.doll.playaer_candded_durian_winter": "玩家：Candded_Durian(冬季版)",
 
 
 
@@ -285,6 +292,12 @@
   
   "advancements.kaleidoscope_doll.doll.candded_durian.title": "异味珍馐",
   "advancements.kaleidoscope_doll.doll.candded_durian.description": "鲱罐拌以榴莲，其味奇绝。",
+
+  "advancements.kaleidoscope_doll.doll.candded_blueberry.title": "吾之分身",
+  "advancements.kaleidoscope_doll.doll.candded_blueberry.description": "拜托，吾之分身也！",
+
+  "advancements.kaleidoscope_doll.doll.daisy_i_doris.title": "一朵小花",
+  "advancements.kaleidoscope_doll.doll.daisy_i_doris.description": "源自情愫，深藏于心。",
   
   "advancements.kaleidoscope_doll.doll.nolan.title": "营生贾者",
   "advancements.kaleidoscope_doll.doll.nolan.description": "乃众民之营生贾者也。",
@@ -302,5 +315,26 @@
   "advancements.kaleidoscope_doll.doll.yeye_zzzzzzi.description": "此重婚纳妾之王，传世之传奇也。",
   
   "advancements.kaleidoscope_doll.doll.iharuko.title": "曼舞之调",
-  "advancements.kaleidoscope_doll.doll.iharuko.description": "全镇至哈基米者，唯此君耳。"
+  "advancements.kaleidoscope_doll.doll.iharuko.description": "全镇至哈基米者，唯此君耳。",
+  
+  "advancements.kaleidoscope_doll.doll.milkyway.title": "银河漫游指引",
+  "advancements.kaleidoscope_doll.doll.milkyway.description": "其答乃四十二也。",
+
+  "advancements.kaleidoscope_doll.doll.nolan_wild.title": "野性暴怒",
+  "advancements.kaleidoscope_doll.doll.nolan_wild.description": "此世需多得臀也。",
+
+  "advancements.kaleidoscope_doll.doll.anhesu.title": "安何苏辈",
+  "advancements.kaleidoscope_doll.doll.anhesu.description": "苏八六与彼苏七幼子。",
+
+  "advancements.kaleidoscope_doll.doll.he_liu.title": "何炅乎？",
+  "advancements.kaleidoscope_doll.doll.he_liu.description": "何柳，河流，复何柳也。",
+
+  "advancements.kaleidoscope_doll.doll.red_supern0va.title": "朱色超新星",
+  "advancements.kaleidoscope_doll.doll.red_supern0va.description": "较诸超新星，更显光华！",
+
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az.title": "兽性尽发",
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az.description": "其形也，卧榻安眠，一觉至天明也。",
+
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.title": "吾兽性始发",
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.description": "始卧榻而安眠。"
 }

@@ -601,10 +601,17 @@
   "tooltip.kaleidoscope_doll.doll.player_bluezjx": "玩家：bluezjx",
   "tooltip.kaleidoscope_doll.doll.player_hoshinosaki": "玩家：Hoshino_Saki",
   "tooltip.kaleidoscope_doll.doll.player_red_supern0va": "玩家：Red_SuperN0va",
-  "tooltip.kaleidoscope_doll.doll.playaer_xiaoguishou_az": "玩家：小怪兽Daniel xiaoguaishou_AZ",
+  "tooltip.kaleidoscope_doll.doll.playaer_xiaoguaishou_az": "玩家：小怪兽Daniel xiaoguaishou_AZ",
   "tooltip.kaleidoscope_doll.doll.playaer_he_liu": "玩家：何柳 HE_LIU",
   "tooltip.kaleidoscope_doll.doll.playaer_sad_08": "玩家：Sad_08",
   "tooltip.kaleidoscope_doll.doll.playaer_metal_ranger": "玩家：Metal_Ranger",
+  "tooltip.kaleidoscope_doll.doll.playaer_rji_milkyway": "玩家：RJI_MilkyWay",
+  "tooltip.kaleidoscope_doll.doll.playaer_mengzhangold": "玩家：老孟张 MengZhangold",
+  "tooltip.kaleidoscope_doll.doll.playaer_viacg_07": "玩家：Viacg_07",
+  "tooltip.kaleidoscope_doll.doll.playaer_easton_nolan_wild": "玩家：逸思通·诺兰(原始版) Easton_Nolan-Wild",
+  "tooltip.kaleidoscope_doll.doll.playaer_anhesu86": "玩家：安何苏 Anhesu86",
+  "tooltip.kaleidoscope_doll.doll.playaer_anhesu7": "玩家：安何苏 Anhesu7",
+  "tooltip.kaleidoscope_doll.doll.playaer_candded_durian_winter": "玩家：Candded_Durian(冬季版)",
 
 
 
@@ -629,11 +636,17 @@
   "advancements.kaleidoscope_doll.doll.candded_durian.title": "罐装凉菜",
   "advancements.kaleidoscope_doll.doll.candded_durian.description": "鲱鱼罐头拌榴莲",
 
+  "advancements.kaleidoscope_doll.doll.candded_blueberry.title": "世界另我",
+  "advancements.kaleidoscope_doll.doll.candded_blueberry.description": "拜托了，另一个我！",
+
+  "advancements.kaleidoscope_doll.doll.daisy_i_doris.title": "小花一朵",
+  "advancements.kaleidoscope_doll.doll.daisy_i_doris.description": "源自那深藏于心的情感",
+
   "advancements.kaleidoscope_doll.doll.nolan.title": "资本家",
   "advancements.kaleidoscope_doll.doll.nolan.description": "人民的资本家",
 
   "advancements.kaleidoscope_doll.doll.metal_ranger.title": "柔情猫娘",
-  "advancements.kaleidoscope_doll.doll.metal_ranger.description": "喵喵~？",
+  "advancements.kaleidoscope_doll.doll.metal_ranger.description": "喵喵~?",
 
   "advancements.kaleidoscope_doll.doll.blue.title": "深藏 Blue",
   "advancements.kaleidoscope_doll.doll.blue.description": "我有一计！",
@@ -645,5 +658,26 @@
   "advancements.kaleidoscope_doll.doll.yeye_zzzzzzi.description": "传奇重婚王",
 
   "advancements.kaleidoscope_doll.doll.iharuko.title": "曼波~",
-  "advancements.kaleidoscope_doll.doll.iharuko.description": "全镇最哈基米的哈基米"
+  "advancements.kaleidoscope_doll.doll.iharuko.description": "全镇最哈基米的哈基米",
+
+  "advancements.kaleidoscope_doll.doll.milkyway.title": " 奶牛路漫游指南",
+  "advancements.kaleidoscope_doll.doll.milkyway.description": "答案是...42。",
+
+  "advancements.kaleidoscope_doll.doll.nolan_wild.title": "原始暴怒",
+  "advancements.kaleidoscope_doll.doll.nolan_wild.description": "这个世界需要更多的屁股",
+
+  "advancements.kaleidoscope_doll.doll.anhesu.title": "安何苏们",
+  "advancements.kaleidoscope_doll.doll.anhesu.description": "苏86和他的小苏7",
+
+  "advancements.kaleidoscope_doll.doll.he_liu.title": "何炅?",
+  "advancements.kaleidoscope_doll.doll.he_liu.description": "何柳、河流和河柳",
+
+  "advancements.kaleidoscope_doll.doll.red_supern0va.title": "红色超新星",
+  "advancements.kaleidoscope_doll.doll.red_supern0va.description": "比超新星还耀眼！",
+
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az.title": "兽性大发",
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az.description": "具体表现是睡大觉",
+
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.title": "我的兽性开始大发",
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.description": "开始睡大觉"
 }

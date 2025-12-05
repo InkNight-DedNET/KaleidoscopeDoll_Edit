@@ -601,10 +601,17 @@
   "tooltip.kaleidoscope_doll.doll.player_bluezjx": "Player: bluezjx",
   "tooltip.kaleidoscope_doll.doll.player_hoshinosaki": "Player: Hoshino_Saki",
   "tooltip.kaleidoscope_doll.doll.player_red_supern0va": "Player: Red_SuperN0va",
-  "tooltip.kaleidoscope_doll.doll.playaer_xiaoguishou_az": "Player: XiaoGuiShou_az",
+  "tooltip.kaleidoscope_doll.doll.playaer_xiaoguaishou_az": "Player: XiaoGuiShou_az",
   "tooltip.kaleidoscope_doll.doll.playaer_he_liu": "Player: HE_LIU",
   "tooltip.kaleidoscope_doll.doll.playaer_sad_08": "Player: Sad_08",
   "tooltip.kaleidoscope_doll.doll.playaer_metal_ranger": "Player: Metal_Ranger",
+  "tooltip.kaleidoscope_doll.doll.playaer_rji_milkyway": "Player: RJI_MilkyWay",
+  "tooltip.kaleidoscope_doll.doll.playaer_mengzhangold": "Player: MengZhangold",
+  "tooltip.kaleidoscope_doll.doll.playaer_viacg_07": "Player: Viacg_07",
+  "tooltip.kaleidoscope_doll.doll.playaer_easton_nolan_wild": "Player: Easton_Nolan(Wild)",
+  "tooltip.kaleidoscope_doll.doll.playaer_anhesu86": "Player: Anhesu86",
+  "tooltip.kaleidoscope_doll.doll.playaer_anhesu7": "Player: Anhesu7",
+  "tooltip.kaleidoscope_doll.doll.playaer_candded_durian_winter": "Player: Candded_Durian(Winter)",
 
 
   
@@ -629,6 +636,12 @@
   "advancements.kaleidoscope_doll.doll.candded_durian.title": "Canned Cold Dish",
   "advancements.kaleidoscope_doll.doll.candded_durian.description": "Herring can mixed with durian (A bizarre, unsettling dish).",
   
+  "advancements.kaleidoscope_doll.doll.candded_blueberry.title": "My Other Self",
+  "advancements.kaleidoscope_doll.doll.candded_blueberry.description": "Please, my other self!",
+
+  "advancements.kaleidoscope_doll.doll.daisy_i_doris.title": "A Little Flower",
+  "advancements.kaleidoscope_doll.doll.daisy_i_doris.description": "Originating from the feelings buried deep within the heart.",
+
   "advancements.kaleidoscope_doll.doll.nolan.title": "Capitalist",
   "advancements.kaleidoscope_doll.doll.nolan.description": "The people's capitalist.",
   
@@ -645,5 +658,26 @@
   "advancements.kaleidoscope_doll.doll.yeye_zzzzzzi.description": "The legendary polygamous king.",
   
   "advancements.kaleidoscope_doll.doll.iharuko.title": "Mambo~",
-  "advancements.kaleidoscope_doll.doll.iharuko.description": "The Hachimi-est Hachimi in town."
+  "advancements.kaleidoscope_doll.doll.iharuko.description": "The Hachimi-est Hachimi in town.",
+
+  "advancements.kaleidoscope_doll.doll.milkyway.title": "Hitchhiker's Guide to the Milky Way",
+  "advancements.kaleidoscope_doll.doll.milkyway.description": "The answer is... 42.",
+
+  "advancements.kaleidoscope_doll.doll.nolan_wild.title": "Primal Rage",
+  "advancements.kaleidoscope_doll.doll.nolan_wild.description": "This world needs more butts.",
+
+  "advancements.kaleidoscope_doll.doll.anhesu.title": "Anhesu's",
+  "advancements.kaleidoscope_doll.doll.anhesu.description": "Su 86 and his little Su 7.",
+
+  "advancements.kaleidoscope_doll.doll.he_liu.title": "He Jiong?",
+  "advancements.kaleidoscope_doll.doll.he_liu.description": "He Liu, River (He Liu), and River Willow (He Liu).",
+
+  "advancements.kaleidoscope_doll.doll.red_supern0va.title": "Red Supern0va",
+  "advancements.kaleidoscope_doll.doll.red_supern0va.description": "Even brighter than a supernova!",
+
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az.title": "Unleashed Bestiality",
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az.description": "Specifically manifested as taking a big nap.",
+
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.title": "My Bestiality Begins to Erupt",
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.description": "Starting to take a big nap."
 }

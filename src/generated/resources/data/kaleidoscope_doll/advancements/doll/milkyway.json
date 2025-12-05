@@ -1,12 +1,12 @@
 {
-  "parent": "kaleidoscope_doll:doll/candded_town",
+  "parent": "kaleidoscope_doll:doll/hachitown_full_collection",
   "criteria": {
-    "doll_25053": {
+    "doll_25069": {
       "conditions": {
         "items": [
           {
             "items": [
-              "kaleidoscope_doll:doll_25053"
+              "kaleidoscope_doll:doll_25069"
             ]
           }
         ]
@@ -18,21 +18,21 @@
     "announce_to_chat": true,
     "background": "kaleidoscope_doll:textures/advancement/background.png",
     "description": {
-      "translate": "advancements.kaleidoscope_doll.doll.daisy_i_doris.description"
+      "translate": "advancements.kaleidoscope_doll.doll.milkyway.description"
     },
     "frame": "challenge",
     "hidden": false,
     "icon": {
-      "item": "kaleidoscope_doll:doll_25053"
+      "item": "kaleidoscope_doll:doll_25069"
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.kaleidoscope_doll.doll.daisy_i_doris.title"
+      "translate": "advancements.kaleidoscope_doll.doll.milkyway.title"
     }
   },
   "requirements": [
     [
-      "doll_25053"
+      "doll_25069"
     ]
   ],
   "rewards": {

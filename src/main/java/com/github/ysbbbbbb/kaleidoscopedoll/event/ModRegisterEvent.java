@@ -28,7 +28,7 @@ public class ModRegisterEvent {
 
     //自定义玩偶数量
     private static final int CUSTOM_START_ID = 25050;
-    private static final int CUSTOM_DOLL_COUNT = 19;
+    private static final int CUSTOM_DOLL_COUNT = 26;
 
     private static void registerAllVanillaTooltips() {
         registerVanillaTooltips("doll_328", "wine_fox");
@@ -610,6 +610,10 @@ public class ModRegisterEvent {
         registerSpecialTooltips("doll_25069", "playaer_rji_milkyway");
         registerSpecialTooltips("doll_25070", "playaer_mengzhangold");
         registerSpecialTooltips("doll_25071", "playaer_viacg_07");
+        registerSpecialTooltips("doll_25072", "playaer_easton_nolan_wild");
+        registerSpecialTooltips("doll_25073", "playaer_anhesu86");
+        registerSpecialTooltips("doll_25074", "playaer_anhesu7");
+        registerSpecialTooltips("doll_25075", "playaer_candded_durian_winter");
 
     }
 
