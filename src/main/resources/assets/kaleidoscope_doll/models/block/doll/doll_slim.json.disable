@@ -4,8 +4,8 @@
 	"render_type": "cutout",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "kaleidoscope_doll:block/doll/doll_25053",
-		"particle": "kaleidoscope_doll:block/doll/doll_25053"
+		"1": "kaleidoscope_doll:block/doll/doll_slim",
+		"particle": "kaleidoscope_doll:block/doll/doll_slim"
 	},
 	"elements": [
 		{

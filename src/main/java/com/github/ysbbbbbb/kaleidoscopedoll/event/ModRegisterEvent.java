@@ -592,7 +592,7 @@ public class ModRegisterEvent {
         registerSpecialTooltips("doll_25051", "player_candded_durian");
         registerSpecialTooltips("doll_25052", "player_candded_blueberry");
         registerSpecialTooltips("doll_25053", "player_daisy_i_doris");
-        registerSpecialTooltips("doll_25054", "null");
+        registerSpecialTooltips("doll_25054", "dednet_network");
         registerSpecialTooltips("doll_25055", "player_easton_nolan");
         registerSpecialTooltips("doll_25056", "player_iharuko");
         registerSpecialTooltips("doll_25057", "player_st0neway");
