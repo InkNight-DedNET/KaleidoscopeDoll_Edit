@@ -572,23 +572,64 @@
 
 
   
-  "tooltip.kaleidoscope_doll.doll.player_inknight": "Player: InkNight",
-  "tooltip.kaleidoscope_doll.doll.player_candded_durian": "Player: Candded_Durian",
-  "tooltip.kaleidoscope_doll.doll.player_candded_blueberry": "Player: Candded_BlueBerry",
-  "tooltip.kaleidoscope_doll.doll.player_daisy_i_doris": "Player: 雛菊·玲奈 Daisy_I_Doris",
+  "tooltip.kaleidoscope_doll.doll.player_inknight": "プレーヤー：インクナイト InkNight",
+  "tooltip.kaleidoscope_doll.doll.player_candded_durian": "プレーヤー：Candded_Durian",
+  "tooltip.kaleidoscope_doll.doll.player_candded_blueberry": "プレーヤー：Candded_BlueBerry",
+  "tooltip.kaleidoscope_doll.doll.player_daisy_i_doris": "プレーヤー：雛菊·玲奈 Daisy_I_Doris",
   "tooltip.kaleidoscope_doll.doll.dednet_network": "'/.DedNET'/.NETWORK",
-  "tooltip.kaleidoscope_doll.doll.player_easton_nolan": "Player: Easton_Nolan",
-  "tooltip.kaleidoscope_doll.doll.player_iharuko": "Player: iHaRuko",
-  "tooltip.kaleidoscope_doll.doll.player_st0neway": "Player: St0neWay",
-  "tooltip.kaleidoscope_doll.doll.player_yeyezzzzzzi": "Player: Yeyezzzzzi",
-  "tooltip.kaleidoscope_doll.doll.player_snow_catnikki": "Player: Snow_CatNikki",
-  "tooltip.kaleidoscope_doll.doll.player_qing_ta": "Player: qing_ta",
-  "tooltip.kaleidoscope_doll.doll.player_ztliie_awa": "Player: ZTLIIE_awa",
-  "tooltip.kaleidoscope_doll.doll.player_bluezjx": "Player: bluezjx",
-  "tooltip.kaleidoscope_doll.doll.player_hoshinosaki": "Player: Hoshino_Saki",
-  "tooltip.kaleidoscope_doll.doll.player_red_supern0va": "Player: Red_SuperN0va",
-  "tooltip.kaleidoscope_doll.doll.playaer_xiaoguishou_az": "Player: XiaoGuiShou_az",
-  "tooltip.kaleidoscope_doll.doll.playaer_he_liu": "Player: HE_LIU",
-  "tooltip.kaleidoscope_doll.doll.playaer_sad_08": "Player: Sad_08",
-  "tooltip.kaleidoscope_doll.doll.playaer_metal_ranger": "Player: Metal_Ranger"
+  "tooltip.kaleidoscope_doll.doll.player_easton_nolan": "プレーヤー：イーストン_ノーラン Easton_Nolan",
+  "tooltip.kaleidoscope_doll.doll.player_iharuko": "プレーヤー：ハロコ iHaRuko",
+  "tooltip.kaleidoscope_doll.doll.player_st0neway": "プレーヤー：ストーンウェイ St0neWay",
+  "tooltip.kaleidoscope_doll.doll.player_yeyezzzzzzi": "プレーヤー：Yeyezzzzzi",
+  "tooltip.kaleidoscope_doll.doll.player_snow_catnikki": "プレーヤー：Snow_CatNikki",
+  "tooltip.kaleidoscope_doll.doll.player_qing_ta": "プレーヤー：qing_ta",
+  "tooltip.kaleidoscope_doll.doll.player_ztliie_awa": "プレーヤー：ZTLIIE_awa",
+  "tooltip.kaleidoscope_doll.doll.player_bluezjx": "プレーヤー：bluezjx",
+  "tooltip.kaleidoscope_doll.doll.player_hoshinosaki": "プレーヤー：Hoshino_Saki",
+  "tooltip.kaleidoscope_doll.doll.player_red_supern0va": "プレーヤー：Red_SuperN0va",
+  "tooltip.kaleidoscope_doll.doll.playaer_xiaoguishou_az": "プレーヤー：XiaoGuiShou_az",
+  "tooltip.kaleidoscope_doll.doll.playaer_he_liu": "プレーヤー：HE_LIU",
+  "tooltip.kaleidoscope_doll.doll.playaer_sad_08": "プレーヤー：Sad_08",
+  "tooltip.kaleidoscope_doll.doll.playaer_metal_ranger": "プレーヤー：Metal_Ranger",
+
+
+
+  "advancements.kaleidoscope_doll.doll.hachitown_full_collection.title": "ハチタウン",
+  "advancements.kaleidoscope_doll.doll.hachitown_full_collection.description": "ハチサーバー（コミュニティ）に参加してくださった皆さまへ",
+  
+  "advancements.kaleidoscope_doll.doll.ill_fated_couple.title": "あわれな鴛鴦",
+  "advancements.kaleidoscope_doll.doll.ill_fated_couple.description": "あわれな二人よ、どうか来世で結ばれてください",
+  
+  "advancements.kaleidoscope_doll.doll.canned_town.title": "缶詰タウン",
+  "advancements.kaleidoscope_doll.doll.canned_town.description": "缶詰ひとつとインク瓶ひとつでできた町",
+  
+  "advancements.kaleidoscope_doll.doll.dednet.title": "デッドネット",
+  "advancements.kaleidoscope_doll.doll.dednet.description": "www.dednet.co - since 2020",
+  
+  "advancements.kaleidoscope_doll.doll.light_step_in_snow.title": "雪中の軽やかな一歩",
+  "advancements.kaleidoscope_doll.doll.light_step_in_snow.description": "雪に軽く足を踏み入れ、梅の花の足跡を残す",
+  
+  "advancements.kaleidoscope_doll.doll.inknight.title": "夜の如き漆黒",
+  "advancements.kaleidoscope_doll.doll.inknight.description": "邪悪なインクの瓶",
+  
+  "advancements.kaleidoscope_doll.doll.candded_durian.title": "缶詰のお惣菜",
+  "advancements.kaleidoscope_doll.doll.candded_durian.description": "ニシンの缶詰とドリアンの和え物",
+  
+  "advancements.kaleidoscope_doll.doll.nolan.title": "資本家",
+  "advancements.kaleidoscope_doll.doll.nolan.description": "人民の資本家",
+  
+  "advancements.kaleidoscope_doll.doll.metal_ranger.title": "優しいネコミミ娘",
+  "advancements.kaleidoscope_doll.doll.metal_ranger.description": "ニャーニャー？",
+  
+  "advancements.kaleidoscope_doll.doll.blue.title": "ディープ・ブルー",
+  "advancements.kaleidoscope_doll.doll.blue.description": "良い策があるぞ！",
+  
+  "advancements.kaleidoscope_doll.doll.ztliie_awa.title": "I'm ZTE",
+  "advancements.kaleidoscope_doll.doll.ztliie_awa.description": "オートメーションと植物魔法専門のブラックハンド",
+  
+  "advancements.kaleidoscope_doll.doll.yeye_zzzzzzi.title": "ハーレム王",
+  "advancements.kaleidoscope_doll.doll.yeye_zzzzzzi.description": "伝説の重婚王",
+  
+  "advancements.kaleidoscope_doll.doll.iharuko.title": "マンボ〜",
+  "advancements.kaleidoscope_doll.doll.iharuko.description": "町で一番ハチミなハチミ"
 }

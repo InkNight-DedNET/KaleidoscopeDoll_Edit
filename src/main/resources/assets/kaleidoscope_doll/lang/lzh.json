@@ -261,5 +261,46 @@
   "tooltip.kaleidoscope_doll.doll.playaer_xiaoguishou_az": "Player: XiaoGuiShou_az",
   "tooltip.kaleidoscope_doll.doll.playaer_he_liu": "Player: HE_LIU",
   "tooltip.kaleidoscope_doll.doll.playaer_sad_08": "Player: Sad_08",
-  "tooltip.kaleidoscope_doll.doll.playaer_metal_ranger": "Player: Metal_Ranger"
+  "tooltip.kaleidoscope_doll.doll.playaer_metal_ranger": "Player: Metal_Ranger",
+
+
+
+  "advancements.kaleidoscope_doll.doll.hachitown_full_collection.title": "哈基之城",
+  "advancements.kaleidoscope_doll.doll.hachitown_full_collection.description": "献诸君襄助哈基服事者，功不可没。",
+  
+  "advancements.kaleidoscope_doll.doll.ill_fated_couple.title": "鸳侣薄命",
+  "advancements.kaleidoscope_doll.doll.ill_fated_couple.description": "彼鸳鸯薄命也，愿君待诸来世，再续前缘。",
+  
+  "advancements.kaleidoscope_doll.doll.canned_town.title": "罐中微城",
+  "advancements.kaleidoscope_doll.doll.canned_town.description": "一罐头、一墨瓶，聚而成小镇。",
+  
+  "advancements.kaleidoscope_doll.doll.dednet.title": "代德网事",
+  "advancements.kaleidoscope_doll.doll.dednet.description": "庚子年起，代德网域，于兹立焉。",
+  
+  "advancements.kaleidoscope_doll.doll.light_step_in_snow.title": "踏雪留梅",
+  "advancements.kaleidoscope_doll.doll.light_step_in_snow.description": "轻履雪中，梅印自留。",
+  
+  "advancements.kaleidoscope_doll.doll.inknight.title": "墨色玄夜",
+  "advancements.kaleidoscope_doll.doll.inknight.description": "此乃邪墨一瓶，其色如夜。",
+  
+  "advancements.kaleidoscope_doll.doll.candded_durian.title": "异味珍馐",
+  "advancements.kaleidoscope_doll.doll.candded_durian.description": "鲱罐拌以榴莲，其味奇绝。",
+  
+  "advancements.kaleidoscope_doll.doll.nolan.title": "营生贾者",
+  "advancements.kaleidoscope_doll.doll.nolan.description": "乃众民之营生贾者也。",
+  
+  "advancements.kaleidoscope_doll.doll.metal_ranger.title": "柔心猫姬",
+  "advancements.kaleidoscope_doll.doll.metal_ranger.description": "喵喵之声，娇柔可人。",
+  
+  "advancements.kaleidoscope_doll.doll.blue.title": "深韫青冥",
+  "advancements.kaleidoscope_doll.doll.blue.description": "吾有一计，可破局势！",
+  
+  "advancements.kaleidoscope_doll.doll.ztliie_awa.title": "吾乃中兴",
+  "advancements.kaleidoscope_doll.doll.ztliie_awa.description": "专精机巧自动化、兼修草木之玄法。",
+  
+  "advancements.kaleidoscope_doll.doll.yeye_zzzzzzi.title": "群芳之主",
+  "advancements.kaleidoscope_doll.doll.yeye_zzzzzzi.description": "此重婚纳妾之王，传世之传奇也。",
+  
+  "advancements.kaleidoscope_doll.doll.iharuko.title": "曼舞之调",
+  "advancements.kaleidoscope_doll.doll.iharuko.description": "全镇至哈基米者，唯此君耳。"
 }

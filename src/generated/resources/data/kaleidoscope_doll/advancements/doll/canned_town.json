@@ -1,0 +1,87 @@
+{
+  "parent": "kaleidoscope_doll:doll/root",
+  "criteria": {
+    "doll_25050": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_doll:doll_25050"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "doll_25051": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_doll:doll_25051"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "doll_25052": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_doll:doll_25052"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "doll_25053": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_doll:doll_25053"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "kaleidoscope_doll:textures/advancement/background.png",
+    "description": {
+      "translate": "advancements.kaleidoscope_doll.doll.canned_town.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "kaleidoscope_doll:doll_25051"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.kaleidoscope_doll.doll.canned_town.title"
+    }
+  },
+  "requirements": [
+    [
+      "doll_25050"
+    ],
+    [
+      "doll_25051"
+    ],
+    [
+      "doll_25052"
+    ],
+    [
+      "doll_25053"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  },
+  "sends_telemetry_event": true
+}

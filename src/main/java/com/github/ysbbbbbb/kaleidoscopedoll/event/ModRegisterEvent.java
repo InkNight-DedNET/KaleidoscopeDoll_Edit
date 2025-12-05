@@ -603,10 +603,13 @@ public class ModRegisterEvent {
         registerSpecialTooltips("doll_25062", "player_bluezjx");
         registerSpecialTooltips("doll_25063", "player_hoshinosaki");
         registerSpecialTooltips("doll_25064", "player_red_supern0va");
-        registerSpecialTooltips("doll_25065", "playaer_xiaoguishou_az");
+        registerSpecialTooltips("doll_25065", "playaer_xiaoguaishou_az");
         registerSpecialTooltips("doll_25066", "playaer_he_liu");
         registerSpecialTooltips("doll_25067", "playaer_sad_08");
         registerSpecialTooltips("doll_25068", "playaer_metal_ranger");
+        registerSpecialTooltips("doll_25069", "playaer_rji_milkyway");
+        registerSpecialTooltips("doll_25070", "playaer_mengzhangold");
+        registerSpecialTooltips("doll_25071", "playaer_viacg_07");
 
     }
 
