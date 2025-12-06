@@ -598,6 +598,7 @@
   "tooltip.kaleidoscope_doll.doll.playaer_anhesu86": "プレーヤー：Anhesu86",
   "tooltip.kaleidoscope_doll.doll.playaer_anhesu7": "プレーヤー：Anhesu7",
   "tooltip.kaleidoscope_doll.doll.playaer_candded_durian_winter": "プレーヤー：Candded_Durian(Winter)",
+  "tooltip.kaleidoscope_doll.doll.player_guzimiao": "プレーヤー：GuziMiao",
 
 
 
@@ -616,6 +617,9 @@
   "advancements.kaleidoscope_doll.doll.light_step_in_snow.title": "雪中の軽やかな一歩",
   "advancements.kaleidoscope_doll.doll.light_step_in_snow.description": "雪に軽く足を踏み入れ、梅の花の足跡を残す",
   
+  "advancements.kaleidoscope_doll.doll.harumiao.title": "あなたは？",
+  "advancements.kaleidoscope_doll.doll.harumiao.description": "あなたはハ・リコウ・ナ・グズミャオの誰ですか？",
+
   "advancements.kaleidoscope_doll.doll.inknight.title": "夜の如き漆黒",
   "advancements.kaleidoscope_doll.doll.inknight.description": "邪悪なインクの瓶",
   

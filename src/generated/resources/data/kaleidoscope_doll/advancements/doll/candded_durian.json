@@ -1,5 +1,5 @@
 {
-  "parent": "kaleidoscope_doll:doll/candded_town",
+  "parent": "kaleidoscope_doll:doll/canned_town",
   "criteria": {
     "doll_25051": {
       "conditions": {

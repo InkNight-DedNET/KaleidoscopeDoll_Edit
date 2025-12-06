@@ -4,7 +4,7 @@
 	"render_type": "cutout",
 	"texture_size": [64, 64],
 	"textures": {
-		"3": "L:/Minecraft/Skin/InkNight-01",
+		"3": "kaleidoscope_doll:block/doll/doll_500",
 		"particle": "block/white_wool"
 	},
 	"elements": [

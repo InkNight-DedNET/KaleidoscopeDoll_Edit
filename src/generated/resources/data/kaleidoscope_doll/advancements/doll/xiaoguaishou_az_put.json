@@ -1,20 +1,20 @@
 {
   "parent": "kaleidoscope_doll:doll/xiaoguaishou_az",
   "criteria": {
-    "doll_25065_placed": {
+    "doll_25065": {
+      "trigger": "minecraft:item_used_on_block",
       "conditions": {
-        "item": {
-          "items": [
-            "kaleidoscope_doll:doll_25065"
-          ]
-        },
         "location": [
           {
-            "condition": "minecraft:location_check"
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": [
+                "kaleidoscope_doll:doll_25065"
+              ]
+            }
           }
         ]
-      },
-      "trigger": "minecraft:item_used_on_block"
+      }
     }
   },
   "display": {
@@ -35,7 +35,7 @@
   },
   "requirements": [
     [
-      "doll_25065_placed"
+      "doll_25065"
     ]
   ],
   "rewards": {

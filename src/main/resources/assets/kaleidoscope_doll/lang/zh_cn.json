@@ -611,7 +611,7 @@
   "tooltip.kaleidoscope_doll.doll.playaer_easton_nolan_wild": "玩家：逸思通·诺兰(原始版) Easton_Nolan-Wild",
   "tooltip.kaleidoscope_doll.doll.playaer_anhesu86": "玩家：安何苏 Anhesu86",
   "tooltip.kaleidoscope_doll.doll.playaer_anhesu7": "玩家：安何苏 Anhesu7",
-  "tooltip.kaleidoscope_doll.doll.playaer_candded_durian_winter": "玩家：Candded_Durian(冬季版)",
+  "tooltip.kaleidoscope_doll.doll.player_guzimiao": "玩家：咕子喵 GuziMiao",
 
 
 
@@ -629,6 +629,9 @@
 
   "advancements.kaleidoscope_doll.doll.light_step_in_snow.title": "雪中送沓",
   "advancements.kaleidoscope_doll.doll.light_step_in_snow.description": "雪中轻踏梅花印",
+
+  "advancements.kaleidoscope_doll.doll.harumiao.title": "你是?",
+  "advancements.kaleidoscope_doll.doll.harumiao.description": "你是哈入口那咕子喵是谁?",
 
   "advancements.kaleidoscope_doll.doll.inknight.title": "墨黑如夜",
   "advancements.kaleidoscope_doll.doll.inknight.description": "一瓶邪恶的墨水",

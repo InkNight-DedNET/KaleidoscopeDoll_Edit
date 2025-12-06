@@ -1,24 +1,24 @@
 {
-  "parent": "kaleidoscope_doll:doll/hachitown_full_collection",
+  "parent": "kaleidoscope_doll:doll/iharuko",
   "criteria": {
-    "doll_25050": {
+    "doll_25056": {
       "conditions": {
         "items": [
           {
             "items": [
-              "kaleidoscope_doll:doll_25050"
+              "kaleidoscope_doll:doll_25056"
             ]
           }
         ]
       },
       "trigger": "minecraft:inventory_changed"
     },
-    "doll_25055": {
+    "doll_25076": {
       "conditions": {
         "items": [
           {
             "items": [
-              "kaleidoscope_doll:doll_25055"
+              "kaleidoscope_doll:doll_25076"
             ]
           }
         ]
@@ -30,28 +30,28 @@
     "announce_to_chat": true,
     "background": "kaleidoscope_doll:textures/advancement/background.png",
     "description": {
-      "translate": "advancements.kaleidoscope_doll.doll.ill_fated_couple.description"
+      "translate": "advancements.kaleidoscope_doll.doll.harumiao.description"
     },
     "frame": "challenge",
     "hidden": false,
     "icon": {
-      "item": "minecraft:lead"
+      "item": "kaleidoscope_doll:doll_25076"
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.kaleidoscope_doll.doll.ill_fated_couple.title"
+      "translate": "advancements.kaleidoscope_doll.doll.harumiao.title"
     }
   },
   "requirements": [
     [
-      "doll_25050"
+      "doll_25056"
     ],
     [
-      "doll_25055"
+      "doll_25076"
     ]
   ],
   "rewards": {
-    "experience": 35.0234
+    "experience": 100
   },
   "sends_telemetry_event": true
 }

@@ -612,6 +612,7 @@
   "tooltip.kaleidoscope_doll.doll.playaer_anhesu86": "Player: Anhesu86",
   "tooltip.kaleidoscope_doll.doll.playaer_anhesu7": "Player: Anhesu7",
   "tooltip.kaleidoscope_doll.doll.playaer_candded_durian_winter": "Player: Candded_Durian(Winter)",
+  "tooltip.kaleidoscope_doll.doll.player_guzimiao": "Player: GuziMiao",
 
 
   
@@ -630,6 +631,9 @@
   "advancements.kaleidoscope_doll.doll.light_step_in_snow.title": "Light Step in Snow (or Sending Shoes in Snow)", 
   "advancements.kaleidoscope_doll.doll.light_step_in_snow.description": "Taking light steps, leaving plum blossom imprints in the snow.",
   
+  "advancements.kaleidoscope_doll.doll.harumiao.title": "Who Are You?",
+  "advancements.kaleidoscope_doll.doll.harumiao.description": "Who is 'Ha Rikou Na Gu Zi Miao'?",
+
   "advancements.kaleidoscope_doll.doll.inknight.title": "Ink Black as Night",
   "advancements.kaleidoscope_doll.doll.inknight.description": "A bottle of evil ink.",
   
