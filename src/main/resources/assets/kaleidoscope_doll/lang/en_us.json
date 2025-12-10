@@ -613,9 +613,12 @@
   "tooltip.kaleidoscope_doll.doll.playaer_anhesu7": "Player: Anhesu7",
   "tooltip.kaleidoscope_doll.doll.playaer_candded_durian_winter": "Player: Candded_Durian(Winter)",
   "tooltip.kaleidoscope_doll.doll.player_guzimiao": "Player: GuziMiao",
+  "tooltip.kaleidoscope_doll.doll.player_kumoeiko": "Player: Kumoeiko",
+  "tooltip.kaleidoscope_doll.doll.player_mirges": "Player: Mirges",
+  "tooltip.kaleidoscope_doll.doll.player_booaoo": "Player: Booaoo",
 
 
-  
+
   "advancements.kaleidoscope_doll.doll.hachitown_full_collection.title": "Hachi Town",
   "advancements.kaleidoscope_doll.doll.hachitown_full_collection.description": "Dedicated to everyone who participated in the Hachi Community",
   
@@ -671,7 +674,7 @@
   "advancements.kaleidoscope_doll.doll.nolan_wild.description": "This world needs more butts.",
 
   "advancements.kaleidoscope_doll.doll.anhesu.title": "Anhesu's",
-  "advancements.kaleidoscope_doll.doll.anhesu.description": "Su 86 and his little Su 7.",
+  "advancements.kaleidoscope_doll.doll.anhesu.description": "Anhesu86 and his Anhesu7.",
 
   "advancements.kaleidoscope_doll.doll.he_liu.title": "He Jiong?",
   "advancements.kaleidoscope_doll.doll.he_liu.description": "He Liu, River (He Liu), and River Willow (He Liu).",
@@ -683,5 +686,14 @@
   "advancements.kaleidoscope_doll.doll.xiaoguaishou_az.description": "Specifically manifested as taking a big nap.",
 
   "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.title": "My Bestiality Begins to Erupt",
-  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.description": "Starting to take a big nap."
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.description": "Starting to take a big nap.",
+
+  "advancements.kaleidoscope_doll.doll.kumoeiko.title": "Man in the shadow",
+  "advancements.kaleidoscope_doll.doll.kumoeiko.description": "Only in memory can I remember the outline.",
+
+  "advancements.kaleidoscope_doll.doll.mirges.title": "Empty Shell Puppet",
+  "advancements.kaleidoscope_doll.doll.mirges.description": "When I'm bored or sad, I hope you're around to help.",
+
+  "advancements.kaleidoscope_doll.doll.booaoo.title": "Shimoe Koharu",
+  "advancements.kaleidoscope_doll.doll.booaoo.description": "It's as if all the filth around you has been driven away."
 }

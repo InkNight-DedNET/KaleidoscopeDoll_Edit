@@ -270,6 +270,9 @@
   "tooltip.kaleidoscope_doll.doll.playaer_anhesu7": "玩家：安何苏 Anhesu7",
   "tooltip.kaleidoscope_doll.doll.playaer_candded_durian_winter": "玩家：Candded_Durian(冬季版)",
   "tooltip.kaleidoscope_doll.doll.player_guzimiao": "玩家：咕子喵 GuziMiao",
+  "tooltip.kaleidoscope_doll.doll.player_kumoeiko": "玩家：影子 Kumoeiko",
+  "tooltip.kaleidoscope_doll.doll.player_mirges": "玩家：白昼 Mirges",
+  "tooltip.kaleidoscope_doll.doll.player_booaoo": "玩家：Booaoo",
 
 
 
@@ -340,5 +343,14 @@
   "advancements.kaleidoscope_doll.doll.xiaoguaishou_az.description": "其形也，卧榻安眠，一觉至天明也。",
 
   "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.title": "吾兽性始发",
-  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.description": "始卧榻而安眠。"
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.description": "始卧榻而安眠",
+
+  "advancements.kaleidoscope_doll.doll.kumoeiko.title": "幻中人",
+  "advancements.kaleidoscope_doll.doll.kumoeiko.description": "惟存念想，方略其形",
+
+  "advancements.kaleidoscope_doll.doll.mirges.title": "虚胎偶",
+  "advancements.kaleidoscope_doll.doll.mirges.description": "寂寥忧思，冀其相伴",
+  
+  "advancements.kaleidoscope_doll.doll.booaoo.title": "下江小春",
+  "advancements.kaleidoscope_doll.doll.booaoo.description": "周遭之穢，若遠離汝身矣。"
 }

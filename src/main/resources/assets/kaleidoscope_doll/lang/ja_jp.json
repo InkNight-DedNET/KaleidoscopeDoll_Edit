@@ -599,6 +599,9 @@
   "tooltip.kaleidoscope_doll.doll.playaer_anhesu7": "プレーヤー：Anhesu7",
   "tooltip.kaleidoscope_doll.doll.playaer_candded_durian_winter": "プレーヤー：Candded_Durian(Winter)",
   "tooltip.kaleidoscope_doll.doll.player_guzimiao": "プレーヤー：GuziMiao",
+  "tooltip.kaleidoscope_doll.doll.player_kumoeiko": "プレーヤー：Kumoeiko",
+  "tooltip.kaleidoscope_doll.doll.player_mirges": "プレーヤー：Mirges",
+  "tooltip.kaleidoscope_doll.doll.player_booaoo": "プレーヤー：Booaoo",
 
 
 
@@ -669,5 +672,15 @@
   "advancements.kaleidoscope_doll.doll.xiaoguaishou_az.description": "具体的には、ぐっすり眠ることです。",
 
   "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.title": "私の獣性が爆発し始める",
-  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.description": "ぐっすり眠り始めた"
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.description": "ぐっすり眠り始めた",
+
+  "advancements.kaleidoscope_doll.doll.kumoeiko.title": "影法師",
+  "advancements.kaleidoscope_doll.doll.kumoeiko.description": "思い出す時のみ輪郭を辿れる",
+
+  "advancements.kaleidoscope_doll.doll.mirges.title": "虚ろな人形",
+  "advancements.kaleidoscope_doll.doll.mirges.description": "退屈な時や悲しい時に、傍にいて欲しい",
+
+  "advancements.kaleidoscope_doll.doll.booaoo.title": "下江コハル",
+  "advancements.kaleidoscope_doll.doll.booaoo.description": "まるで周囲の穢れが全て貴方から離れていったようですね"
+
 }

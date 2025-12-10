@@ -216,6 +216,138 @@
         ]
       },
       "trigger": "minecraft:inventory_changed"
+    },
+    "doll_25069": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_doll:doll_25069"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "doll_25070": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_doll:doll_25070"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "doll_25071": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_doll:doll_25071"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "doll_25072": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_doll:doll_25072"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "doll_25073": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_doll:doll_25073"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "doll_25074": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_doll:doll_25074"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "doll_25075": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_doll:doll_25075"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "doll_25076": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_doll:doll_25076"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "doll_25077": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_doll:doll_25077"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "doll_25078": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_doll:doll_25078"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "doll_25079": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kaleidoscope_doll:doll_25079"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
     }
   },
   "display": {
@@ -235,27 +367,38 @@
     }
   },
   "requirements": [
-      ["doll_25050"],
-      ["doll_25051"],
-      ["doll_25052"],
-      ["doll_25053"],
-      ["doll_25055"],
-      ["doll_25056"],
-      ["doll_25057"],
-      ["doll_25058"],
-      ["doll_25059"],
-      ["doll_25060"],
-      ["doll_25061"],
-      ["doll_25062"],
-      ["doll_25063"],
-      ["doll_25064"],
-      ["doll_25065"],
-      ["doll_25066"],
-      ["doll_25067"],
-      ["doll_25068"]
+    ["doll_25050"],
+    ["doll_25051"],
+    ["doll_25052"],
+    ["doll_25053"],
+    ["doll_25055"],
+    ["doll_25056"],
+    ["doll_25057"],
+    ["doll_25058"],
+    ["doll_25059"],
+    ["doll_25060"],
+    ["doll_25061"],
+    ["doll_25062"],
+    ["doll_25063"],
+    ["doll_25064"],
+    ["doll_25065"],
+    ["doll_25066"],
+    ["doll_25067"],
+    ["doll_25068"],
+    ["doll_25069"],
+    ["doll_25070"],
+    ["doll_25071"],
+    ["doll_25072"],
+    ["doll_25073"],
+    ["doll_25074"],
+    ["doll_25075"],
+    ["doll_25076"],
+    ["doll_25077"],
+    ["doll_25078"],
+    ["doll_25079"]
   ],
   "rewards": {
-    "experience": 1600
+    "experience": 2025
   },
   "sends_telemetry_event": true
 }

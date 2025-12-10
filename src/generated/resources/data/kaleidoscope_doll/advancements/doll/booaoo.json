@@ -1,24 +1,12 @@
 {
   "parent": "kaleidoscope_doll:doll/hachitown_full_collection",
   "criteria": {
-    "doll_25057": {
+    "doll_25079": {
       "conditions": {
         "items": [
           {
             "items": [
-              "kaleidoscope_doll:doll_25057"
-            ]
-          }
-        ]
-      },
-      "trigger": "minecraft:inventory_changed"
-    },
-    "doll_25058": {
-      "conditions": {
-        "items": [
-          {
-            "items": [
-              "kaleidoscope_doll:doll_25058"
+              "kaleidoscope_doll:doll_25079"
             ]
           }
         ]
@@ -30,28 +18,25 @@
     "announce_to_chat": true,
     "background": "kaleidoscope_doll:textures/advancement/background.png",
     "description": {
-      "translate": "advancements.kaleidoscope_doll.doll.ill_fated_couple.description"
+      "translate": "advancements.kaleidoscope_doll.doll.booaoo.description"
     },
     "frame": "challenge",
     "hidden": false,
     "icon": {
-      "item": "minecraft:lead"
+      "item": "kaleidoscope_doll:doll_25079"
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.kaleidoscope_doll.doll.ill_fated_couple.title"
+      "translate": "advancements.kaleidoscope_doll.doll.booaoo.title"
     }
   },
   "requirements": [
     [
-      "doll_25057"
-    ],
-    [
-      "doll_25058"
+      "doll_25079"
     ]
   ],
   "rewards": {
-    "experience": 35.0234
+    "experience": 100
   },
   "sends_telemetry_event": true
 }

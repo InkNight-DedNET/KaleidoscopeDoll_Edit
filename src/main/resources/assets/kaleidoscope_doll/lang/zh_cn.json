@@ -609,10 +609,12 @@
   "tooltip.kaleidoscope_doll.doll.playaer_mengzhangold": "玩家：老孟张 MengZhangold",
   "tooltip.kaleidoscope_doll.doll.playaer_viacg_07": "玩家：Viacg_07",
   "tooltip.kaleidoscope_doll.doll.playaer_easton_nolan_wild": "玩家：逸思通·诺兰(原始版) Easton_Nolan-Wild",
-  "tooltip.kaleidoscope_doll.doll.playaer_anhesu86": "玩家：安何苏 Anhesu86",
-  "tooltip.kaleidoscope_doll.doll.playaer_anhesu7": "玩家：安何苏 Anhesu7",
+  "tooltip.kaleidoscope_doll.doll.playaer_anhesu86": "玩家：安和苏86 Anhesu86",
+  "tooltip.kaleidoscope_doll.doll.playaer_anhesu7": "玩家：安和苏7 Anhesu7",
   "tooltip.kaleidoscope_doll.doll.player_guzimiao": "玩家：咕子喵 GuziMiao",
-
+  "tooltip.kaleidoscope_doll.doll.player_kumoeiko": "玩家：影子 Kumoeiko",
+  "tooltip.kaleidoscope_doll.doll.player_mirges": "玩家：白昼 Mirges",
+  "tooltip.kaleidoscope_doll.doll.player_booaoo": "玩家：Booaoo",
 
 
   "advancements.kaleidoscope_doll.doll.hachitown_full_collection.title": "哈基镇",
@@ -632,6 +634,9 @@
 
   "advancements.kaleidoscope_doll.doll.harumiao.title": "你是?",
   "advancements.kaleidoscope_doll.doll.harumiao.description": "你是哈入口那咕子喵是谁?",
+
+  "advancements.kaleidoscope_doll.doll.stinkybrother.title": "臭哥们",
+  "advancements.kaleidoscope_doll.doll.stinkybrother.description": "兄弟你怎么臭臭的",
 
   "advancements.kaleidoscope_doll.doll.inknight.title": "墨黑如夜",
   "advancements.kaleidoscope_doll.doll.inknight.description": "一瓶邪恶的墨水",
@@ -657,19 +662,22 @@
   "advancements.kaleidoscope_doll.doll.ztliie_awa.title": "I'm ZTE",
   "advancements.kaleidoscope_doll.doll.ztliie_awa.description": "自动化、植物魔法专精版黑手",
 
+  "advancements.kaleidoscope_doll.doll.st0neway.title": "高冷男神",
+  "advancements.kaleidoscope_doll.doll.st0neway.description": "石头道路",
+
   "advancements.kaleidoscope_doll.doll.yeye_zzzzzzi.title": "后宫王",
   "advancements.kaleidoscope_doll.doll.yeye_zzzzzzi.description": "传奇重婚王",
 
   "advancements.kaleidoscope_doll.doll.iharuko.title": "曼波~",
   "advancements.kaleidoscope_doll.doll.iharuko.description": "全镇最哈基米的哈基米",
 
-  "advancements.kaleidoscope_doll.doll.milkyway.title": " 奶牛路漫游指南",
+  "advancements.kaleidoscope_doll.doll.milkyway.title": "奶牛路漫游指南",
   "advancements.kaleidoscope_doll.doll.milkyway.description": "答案是...42。",
 
   "advancements.kaleidoscope_doll.doll.nolan_wild.title": "原始暴怒",
   "advancements.kaleidoscope_doll.doll.nolan_wild.description": "这个世界需要更多的屁股",
 
-  "advancements.kaleidoscope_doll.doll.anhesu.title": "安何苏们",
+  "advancements.kaleidoscope_doll.doll.anhesu.title": "安和苏们",
   "advancements.kaleidoscope_doll.doll.anhesu.description": "苏86和他的小苏7",
 
   "advancements.kaleidoscope_doll.doll.he_liu.title": "何炅?",
@@ -682,5 +690,15 @@
   "advancements.kaleidoscope_doll.doll.xiaoguaishou_az.description": "具体表现是睡大觉",
 
   "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.title": "我的兽性开始大发",
-  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.description": "开始睡大觉"
+  "advancements.kaleidoscope_doll.doll.xiaoguaishou_az_put.description": "开始睡大觉",
+
+  "advancements.kaleidoscope_doll.doll.kumoeiko.title": "影中人",
+  "advancements.kaleidoscope_doll.doll.kumoeiko.description": "仅在回忆中才可忆起轮廓",
+
+  "advancements.kaleidoscope_doll.doll.mirges.title": "空壳人偶",
+  "advancements.kaleidoscope_doll.doll.mirges.description": "在无聊或伤心之时，希望他能给予陪伴",
+
+  "advancements.kaleidoscope_doll.doll.booaoo.title": "下江小春",
+  "advancements.kaleidoscope_doll.doll.booaoo.description": "仿佛周围的污秽都离你而去了呢"
+
 }
